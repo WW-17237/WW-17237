@@ -2,4 +2,4 @@ work on fivem stuff i guess
 
 ![](https://komarev.com/ghpvc/?username=loljoshie&label=VIEWS)
 
-loljoshie#9217 if you need to contact me privately 
+Join my Discord laboratory for updates, support, and special early testings! https://discord.gg/HH6uTcBfew
