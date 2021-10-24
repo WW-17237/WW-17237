@@ -1,4 +1,4 @@
-work on fivem stuff i guess
+passionate programmer
 
 ![](https://komarev.com/ghpvc/?username=loljoshie&label=VIEWS)
 
