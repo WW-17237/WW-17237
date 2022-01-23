@@ -1,7 +1,7 @@
-passionate programmer
+## WEEZOOKA NETWORKS
 
-![](https://komarev.com/ghpvc/?username=loljoshie&label=VIEWS)
+A New Zealand / Australia based server network that owns servers for FiveM, Garry's Mod, Unturned and Team Fortress 2
 
-Join my Discord laboratory for updates, support, and special early testing! https://discord.gg/loljoshie
+### Our Website | www.weezookanetworks.com
 
-If you'd like to buy me a coffee! https://ko-fi.com/loljoshie 
+### Our Discord | https://discord.gg/QKYnebQ
