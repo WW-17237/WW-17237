@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 We are currently working on<br>Gameservers and scripts.
+🔭 currently working on<br>Gameservers and scripts.
+
+🤝 currently working with<br>SurgeRP.
 
 
 ## 🌐 Socials:
