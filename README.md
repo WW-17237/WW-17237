@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 currently working on<br>Gameservers and scripts.
+🔭 currently working on<br>Arduino.
 
-🤝 currently working with<br>SurgeRP.
+🤝 currently working with<br>Your walls, your modem and your files.
 
 
 ## 🌐 Socials:
